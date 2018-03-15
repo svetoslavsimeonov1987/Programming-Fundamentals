@@ -1,4 +1,4 @@
-Lab: C# Intro and Basic Syntax
+###Lab: C# Intro and Basic Syntax
 Problems for exercises and homework for the “Programming Fundamentals Extended” course @ SoftUni.
 Problem 1.	Greeting
 Write a program, which greets the user by their name, which it reads from the console.
