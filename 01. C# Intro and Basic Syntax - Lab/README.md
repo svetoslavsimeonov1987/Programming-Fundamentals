@@ -5,7 +5,7 @@ Write a program, which greets the user by their name, which it reads from the co
 
 ## Problem 2.	Add Two Numbers
 Write a program, which reads 2 whole numbers and adds them together. Then, print them in the following format: 
-•	“a + b = sum”
+-	“a + b = sum”
 
 ## Problem 3.	Employee Data
 Write a program to read data about an employee and print it on the console with the appropriate formatting. The order the input comes in is as such:
