@@ -1,13 +1,9 @@
 # Lab: C# Intro and Basic Syntax
 Problems for exercises and homework for the “Programming Fundamentals Extended” course @ SoftUni.
-Problem 1.	Greeting
+## Problem 1.	Greeting
 Write a program, which greets the user by their name, which it reads from the console.
-Step 1.	Create a New C# Project, using Visual Studio
-Open Visual Studio and create a new project by going into [File  New  Project]:
- 
-After that, the project creation window will open.
-Select Visual C#, then Console Application and name it appropriately:
- 
+## Step 1.	Create a New C# Project, using Visual Studio
+
 Step 2.	Write the Program Logic
 A new file opens in the editor, which looks like this:
   
