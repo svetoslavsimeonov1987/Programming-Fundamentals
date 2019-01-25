@@ -1,4 +1,4 @@
-##Exercises: C# Conditional Statements and Loops
+## Exercises: C# Conditional Statements and Loops
 Problems for exercises and homework for the “Programming Fundamentals” course @ SoftUni.
 Problem 1.	Choose a Drink
 Write a program, which receives a profession (as a string) and chooses the perfect drink for the person. The possible combinations are: 
