@@ -2,7 +2,7 @@
 
 Problems for exercises and homework for the [&quot;Programming Fundamentals&quot; course @ SoftUni](https://softuni.bg/courses/programming-fundamentals).
 
-1. Problem 1.Choose a Drink
+## Problem 1.Choose a Drink
 
 Write a program, which receives a **profession** (as a **string** ) and chooses the perfect **drink** for the person. The possible combinations are:
 
@@ -11,13 +11,9 @@ Write a program, which receives a **profession** (as a **string** ) and chooses 
 - &quot; **Beer**&quot; – for &quot; **SoftUni Student**&quot;
 - &quot; **Tea**&quot; – for all **other professions**.
 
-### Examples
 
-| **Input** | **Output** |   | **Input** | **Output** |   |
-| --- | --- | --- | --- | --- | --- |
-| Athlete | Water | Doctor | Tea |
 
-1. Problem 2.Choose a Drink 2.0
+## Problem 2.Choose a Drink 2.0
 
 Your program needs to get smarter. Now you will receive on the second line the quantities of the drink and you have to print the calculated the price. You can see the prices of the drinks in the table below:
 
@@ -50,7 +46,7 @@ The {profession} has to pay {totalPrice}.
 | SoftUni Student8 | The SoftUni Student has to pay 13.60 |
 | Chef3 | The Chef has to pay 3.60. |
 
-1. Problem 3.Restaurant Discount
+## Problem 3.Restaurant Discount
 
 A restaurant want to automate their reservation process. They need a program that reads the **hall** and the **count of people** from the console and calculates **how much** the customer should **pay** to book the place.
 
@@ -106,7 +102,7 @@ Print the output in the following format:
 | 90Platinum | We can offer you the **Terrace** The price per person is **56.67$** |
 | 150Normal | We do not have an appropriate hall. |
 
-1. Problem 4.Hotel
+## Problem 4.Hotel
 
 A hotel has three types of rooms: **studio** , **double** and **master suite**. The prices are different for the different months:
 
@@ -156,7 +152,7 @@ Print **3 lines** on the console:
 | --- | --- | --- | --- | --- |
 | July16 | Studio: 1088.00 lv.Double: 1232.00 lv.Suite: 1210.40 lv. |   | September10 | Studio: 540.00 lv.Double: 720.00 lv.Suite: 820.00 lv. |
 
-1. Problem 5.\* Word in Plural
+## Problem 5.\* Word in Plural
 
 Write a program, which receives a **noun** and prints the **noun** in **plural**. You will receive one of the following cases:
 
@@ -182,7 +178,7 @@ Print only the **word in plural.**
 
 - You can use the method **String.EndsWith(…)** and **String.Remove(…)** – search for more information on how to use this methods in internet. Do not forget that **strings are**** immutable**.
 
-1. Problem 6.Interval of Numbers
+## Problem 6. Interval of Numbers
 
 Write a program, which takes **two numbers** as input and prints the **interval of numbers between them** , **starting** from the **smaller one** and **ending** with the **larger** one.
 
